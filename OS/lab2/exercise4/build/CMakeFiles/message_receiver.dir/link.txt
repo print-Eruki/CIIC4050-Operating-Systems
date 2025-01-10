@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/message_receiver.dir/src/message_receiver.c.o -o message_receiver 

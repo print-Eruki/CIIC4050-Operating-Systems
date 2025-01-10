@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/mouse_data.dir/src/main.c.o -c /home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/src/main.c",
+  "file": "/home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/src/main.c",
+  "output": "CMakeFiles/mouse_data.dir/src/main.c.o"
+}
+]

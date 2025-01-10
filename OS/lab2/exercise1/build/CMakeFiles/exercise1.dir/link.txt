@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/exercise1.dir/src/main.c.o -o exercise1 

@@ -1,0 +1,6 @@
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/reader.dir
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/writer.dir
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/message_sender.dir
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/message_receiver.dir
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/edit_cache.dir
+/home/alepgn/Desktop/OS/lab2/exercise4/build/CMakeFiles/rebuild_cache.dir

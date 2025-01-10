@@ -1,0 +1,3 @@
+/home/os/os_101_8/Desktop/lab1/exercise1/build/CMakeFiles/exercise1.dir
+/home/os/os_101_8/Desktop/lab1/exercise1/build/CMakeFiles/edit_cache.dir
+/home/os/os_101_8/Desktop/lab1/exercise1/build/CMakeFiles/rebuild_cache.dir

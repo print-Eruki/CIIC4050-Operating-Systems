@@ -1,0 +1,4 @@
+/home/alepgn/Desktop/OS/lab2/exercise1/build/CMakeFiles/exercise1.dir
+/home/alepgn/Desktop/OS/lab2/exercise1/build/CMakeFiles/greetings.dir
+/home/alepgn/Desktop/OS/lab2/exercise1/build/CMakeFiles/edit_cache.dir
+/home/alepgn/Desktop/OS/lab2/exercise1/build/CMakeFiles/rebuild_cache.dir
