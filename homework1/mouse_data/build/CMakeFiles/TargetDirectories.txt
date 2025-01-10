@@ -1,3 +1,0 @@
-/home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/build/CMakeFiles/mouse_data.dir
-/home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/build/CMakeFiles/edit_cache.dir
-/home/juan/Documents/OS/class_examples/complete_examples/io/mouse_data/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/greetings.dir/src/greetings.c.o -o greetings 

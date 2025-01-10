@@ -1,1 +1,0 @@
-/usr/bin/gcc-12 -g CMakeFiles/exercise6.dir/src/main.c.o CMakeFiles/exercise6.dir/src/functions.c.o -o exercise6 

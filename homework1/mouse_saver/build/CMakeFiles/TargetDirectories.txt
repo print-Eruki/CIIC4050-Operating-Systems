@@ -1,3 +1,0 @@
-/home/alepgn/Downloads/homework1/mouse_saver/build/CMakeFiles/mouse_saver.dir
-/home/alepgn/Downloads/homework1/mouse_saver/build/CMakeFiles/edit_cache.dir
-/home/alepgn/Downloads/homework1/mouse_saver/build/CMakeFiles/rebuild_cache.dir

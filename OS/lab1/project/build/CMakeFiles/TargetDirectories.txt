@@ -1,3 +1,0 @@
-/home/os/os_101_8/Desktop/lab1/project/build/CMakeFiles/hello_world.dir
-/home/os/os_101_8/Desktop/lab1/project/build/CMakeFiles/edit_cache.dir
-/home/os/os_101_8/Desktop/lab1/project/build/CMakeFiles/rebuild_cache.dir

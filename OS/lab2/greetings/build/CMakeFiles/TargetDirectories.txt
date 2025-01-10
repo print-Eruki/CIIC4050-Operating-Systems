@@ -1,3 +1,0 @@
-/home/alepgn/Desktop/OS/lab2/greetings/build/CMakeFiles/greetings.dir
-/home/alepgn/Desktop/OS/lab2/greetings/build/CMakeFiles/edit_cache.dir
-/home/alepgn/Desktop/OS/lab2/greetings/build/CMakeFiles/rebuild_cache.dir

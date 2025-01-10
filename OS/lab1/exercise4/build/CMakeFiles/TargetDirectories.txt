@@ -1,3 +1,0 @@
-/home/alepgn/Desktop/OS/lab1/exercise4/build/CMakeFiles/exercise4.dir
-/home/alepgn/Desktop/OS/lab1/exercise4/build/CMakeFiles/edit_cache.dir
-/home/alepgn/Desktop/OS/lab1/exercise4/build/CMakeFiles/rebuild_cache.dir

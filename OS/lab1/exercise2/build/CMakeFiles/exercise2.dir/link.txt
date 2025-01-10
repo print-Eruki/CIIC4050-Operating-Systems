@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/exercise2.dir/src/main.c.o CMakeFiles/exercise2.dir/src/functions.c.o -o exercise2 
