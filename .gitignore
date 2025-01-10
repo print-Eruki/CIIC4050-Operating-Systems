@@ -36,3 +36,6 @@ Makefile
 *.dSYM/
 *.core
 *.stackdump
+
+#zip files
+*.zip
